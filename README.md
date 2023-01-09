@@ -28,4 +28,4 @@ Days Left: This is a derived characteristic that is calculated by subtracting th
 
 Price: Target variable stores information of the ticket price.
 
-library used- pandas,numpy,sklearn,seaborn,matplotly
+Library used- pandas,numpy,sklearn,seaborn,matplotly
