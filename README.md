@@ -1,6 +1,6 @@
 # flight-price-prediction
 
-This Involves  Data Analysis & visualization for Flight Price of Indian Airlines and also testing out the best Model for the regression analysis.
+This Involves  Data Analysis & visualization for Flight Prices of Indian Airlines and also testing out the best Model for the regression analysis.
 
 Features
 
